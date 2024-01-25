@@ -6,8 +6,8 @@
   font-family: 'Poppins',sans-serif;
 }
 ::selection{
-  color: #000;
-  background: #fff;
+  color: #0f34fe;
+  background: #ae5252;
 }
 nav{
   position: fixed;
@@ -26,7 +26,7 @@ nav .menu{
 }
 .menu .logo a{
   text-decoration: none;
-  color: #fff;
+  color: #df4848;
   font-size: 35px;
   font-weight: 600;
 }
@@ -42,7 +42,7 @@ nav .menu{
 }
 .menu ul li a{
   text-decoration: none;
-  color: #fff;
+  color: #71c285;
   font-size: 18px;
   font-weight: 500;
   padding: 8px 15px;
@@ -50,7 +50,7 @@ nav .menu{
   transition: all 0.3s ease;
 }
 .menu ul li a:hover{
-  background: #fff;
+  background: #5727c6;
   color: #367c2b;
 }
 .img{
@@ -78,12 +78,12 @@ nav .menu{
   text-align: center;
 }
 .center .title{
-  color: #fff;
+  color: #5dadbb;
   font-size: 55px;
   font-weight: 600;
 }
 .center .sub_title{
-  color: #fff;
+  color: #962264;
   font-size: 52px;
   font-weight: 600;
 }
@@ -105,14 +105,14 @@ nav .menu{
   transition: all 0.3s ease;
 }
 .center .btns button:first-child{
-  color: #fff;
+  color: #82c87b;
   background: none;
 }
 .btns button:first-child:hover{
-  background: white;
-  color: black;
+  background: rgb(119, 211, 217);
+  color: rgb(195, 94, 94);
 }
 .center .btns button:last-child{
-  background: white;
-  color: black;
+  background: rgb(182, 112, 112);
+  color: rgb(92, 77, 204);
 }
